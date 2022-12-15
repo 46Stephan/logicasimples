@@ -5,5 +5,5 @@ armazenado na sua variável. */
 
 const idade = 32;
 
-document.write('Tenho ' +idade+ ' anos. <br />');
-document.write('O tipo de dado apresentado é: <br /> <br />' +typeof+ ' idade');
+document.write('Tenho ' + idade + ' anos. <br />');
+document.write('O tipo de dado apresentado é: <br /> <br />' + typeof + ' idade');

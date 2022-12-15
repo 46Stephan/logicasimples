@@ -9,4 +9,4 @@ const x = 6;
 const y = 7;
 
 let subtracao = x - y;
-document.write('O resultado da subtração das variáveis x e y será: ' +subtracao);
+document.write('O resultado da subtração das variáveis x e y será: ' + subtracao);

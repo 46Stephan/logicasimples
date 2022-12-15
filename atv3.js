@@ -11,5 +11,5 @@ let qtdParcelas = 2;
 
 let parcelaValor = compraTotal / qtdParcelas;
 
-document.write('A compra teve como valor total de R$: ' +compraTotal+ ' reais. <br />');
-document.write('Para a forma de pagamento, a quantidade de parcelas é ' +qtdParcelas+ ' x de R$' +parcelaValor+ ' reais. <br />')
+document.write('A compra teve como valor total de R$: ' + compraTotal + ' reais. <br />');
+document.write('Para a forma de pagamento, a quantidade de parcelas é ' + qtdParcelas + ' x de R$' + parcelaValor + ' reais. <br />')

@@ -11,4 +11,4 @@ const note3 = 7;
 
 let media = (note1 + note2 + note3) / 3;
 
-document.write('O aluno ' +nome+ ' ficou com média de: ' +media.toFixed(1));
+document.write('O aluno ' + nome + ' ficou com média de: ' + media.toFixed(1));

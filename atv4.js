@@ -8,4 +8,4 @@ informação: "_ minutos equivale à _ segundos!" */
 let minutos = 120;
 let segundos = minutos * 60;
 
-document.write('Para os minutos: ' +minutos+ ' ,os minutos equivalente é de ' +segundos);
+document.write('Para os minutos: ' + minutos + ' ,os minutos equivalente é de ' + segundos);
